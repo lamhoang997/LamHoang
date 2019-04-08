@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời Tiết</string>
+    <string name="input">Nhập Tên Thành Phố</string>
+    <string name="city">Thành Phố</string>
+    <string name="country">Quốc Gia</string>
+    <string name="temp">Nhiệt độ</string>
+    <string name="status">Trạng thái</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="cloud">Mây</string>
+    <string name="wind">Gió</string>
+    <string name="date">Ngày cập nhật</string>
+    <string name="daily">Dự báo hằng ngày</string>
+</resources>
